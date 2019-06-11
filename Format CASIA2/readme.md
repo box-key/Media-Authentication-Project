@@ -1,6 +1,6 @@
 # Description
 
-This program takes CASIA2 dataset as input and generates new dataset in the following manner:
+This program takes CASIA2 dataset as input and generates new dataset in the following manner: </br>
 Create directory for each Authentication image. Each Authentication directory contains the orginal and tampered version of the image.
 
 (i.e.)
@@ -27,7 +27,7 @@ Create directory for each Authentication image. Each Authentication directory co
 
 # How it works
 
-Basically, this program takes advantage of the fact that each tampered image contains its src ID in its name.
+Basically, this program takes advantage of the fact that each tampered image contains its src ID in its name. </br>
 Detail: https://github.com/namtpham/casia2groundtruth
 
 This program follows the steps below.
