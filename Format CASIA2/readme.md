@@ -25,6 +25,8 @@ Create directory for each Authentication image. Each Authentication directory co
 3. Specify the path to original Au, original Tp, and new folder
 4. Run program cell by cell
 
+* It takes several minutes to finish the entire program
+
 # How it works
 
 Basically, this program takes advantage of the fact that each tampered image contains its src ID in its name. </br>
