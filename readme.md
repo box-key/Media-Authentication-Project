@@ -1,6 +1,6 @@
 # Description
 
-This project is a part of media authentication research project that finds a way to separate maliciously modified images and non-maliciously modified images. The programs here mainly focuses on ways to format CASIA2 dataset provided by kaggle: https://www.kaggle.com/sophatvathana/casia-dataset.
+This project is a part of media authentication research project that finds a way to separate maliciously modified images and non-maliciously modified images. The programs here focus on formatting CASIA2 dataset provided by kaggle: https://www.kaggle.com/sophatvathana/casia-dataset.
 
 - Method 1:</br>
 Convert all the tif files into jpg files. 
