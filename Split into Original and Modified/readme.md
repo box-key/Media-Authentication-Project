@@ -12,5 +12,5 @@ This program makes two folders: the one contains all the original images and the
 
 1. Remove all the subdirectories which only have original image.
 2. For each subdirectory, transfer the first image(original one) into original folder.
-3. Then, transfer all the other images into modified folder with the name, "name of original" + "unique # in the subdirectory".
+3. Then, transfer all the other images into modified folder with the name, "name of original" + "unique # in the subdirectory". </br>
 (e.g.) Dog_1, Dog_2, ..., Dog_n, where n is the # of modified images based on Dog.
